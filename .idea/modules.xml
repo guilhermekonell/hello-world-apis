@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/graphStream/graphStream.iml" filepath="$PROJECT_DIR$/graphStream/graphStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-world-apis.iml" filepath="$PROJECT_DIR$/hello-world-apis.iml" />
       <module fileurl="file://$PROJECT_DIR$/jgraph/jgraph.iml" filepath="$PROJECT_DIR$/jgraph/jgraph.iml" />
       <module fileurl="file://$PROJECT_DIR$/jung/jung.iml" filepath="$PROJECT_DIR$/jung/jung.iml" />

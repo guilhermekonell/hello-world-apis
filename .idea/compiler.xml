@@ -11,6 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
       <module name="jgraph" target="11" />
+      <module name="jgrapht" target="8" />
+      <module name="prefuse" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
